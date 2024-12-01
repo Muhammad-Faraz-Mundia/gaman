@@ -133,7 +133,7 @@
             </div>
 
             <div class="relative z-0">
-              <img src="assets/images/video-thumbnail.png" alt="Video Thumbnail" class="aspect-video h-auto w-full rounded-2xl object-cover md:aspect-auto md:rounded-[30px]" />
+              <img src="assets/images/steel-vid-bg.jpg" alt="Video Thumbnail" class="aspect-video h-auto w-full rounded-2xl object-cover md:aspect-auto md:rounded-[30px]" />
               <button class="absolute left-1/2 top-1/2 z-10 -translate-x-1/2 -translate-y-1/2">
                 <svg class="size-14 md:size-auto" width="95" height="97" viewBox="0 0 95 97" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M81.3 14.4799C72.0333 5.34653 60.7667 0.779869 47.5 0.779869C34.5667 0.779869 23.3333 5.34653 13.8 14.4799C4.6 23.6799 0 34.9465 0 48.2799C0 61.6132 4.6 72.8465 13.8 81.9799C18.4 86.6465 23.5167 90.1799 29.15 92.5799C34.7833 94.9799 40.9 96.1799 47.5 96.1799C60.9667 96.1799 72.2333 91.4465 81.3 81.9799C90.4333 72.8465 95 61.6299 95 48.3299C95 35.0299 90.4333 23.7465 81.3 14.4799ZM78.3 17.4799C82.5 21.8132 85.6333 26.5132 87.7 31.5799C89.7667 36.6465 90.8 42.2132 90.8 48.2799C90.8 60.5465 86.6333 70.8132 78.3 79.0799C74.1 83.3465 69.4167 86.5799 64.25 88.7799C59.0833 90.9799 53.4833 92.0799 47.45 92.0799C41.4167 92.0799 35.8833 91.0132 30.85 88.8799C25.8167 86.7465 21.2333 83.4799 17.1 79.0799C12.9 74.8799 9.7 70.1965 7.5 65.0299C5.3 59.8632 4.2 54.2632 4.2 48.2299C4.2 42.1965 5.25 36.6465 7.35 31.5799C9.45 26.5132 12.7 21.8132 17.1 17.4799C21.3 13.2799 25.9667 10.0632 31.1 7.82987C36.2333 5.59653 41.7333 4.47987 47.6 4.47987C53.4667 4.47987 59 5.57987 64.2 7.77987C69.1333 9.97987 73.8333 13.2132 78.3 17.4799ZM41.3 37.4799V62.4799L61.7 49.9799L41.3 37.4799Z" fill="#6EC1E4" />
@@ -155,69 +155,10 @@
           </div>
         </section>
 
-        <!-- Services -->
-        <section class="px-6 pb-16 pt-20 md:pb-28 md:pt-32 fade-in-animation">
-          <div class="mx-auto w-full max-w-[1570px]">
-            <h2 class="mb-10 text-center font-primary text-4xl font-semibold text-[#222222] md:text-5xl">SERVICES</h2>
-            <div class="grid grid-cols-1 gap-x-7.5 gap-y-10 pb-6 sm:grid-cols-2 lg:grid-cols-4">
-              <div class="rounded-[20px] text-center shadow-box-3 fade-in-animation">
-                <div class="relative z-0">
-                  <img src="assets/images/gathering-data.jpg" alt="Gathering data" class="aspect-square w-full rounded-[10px] object-cover xl:aspect-auto xl:h-[370px]" />
-                  <div class="absolute -bottom-7 left-1/2 flex size-15 -translate-x-1/2 items-center justify-center rounded-full border-2 border-[#DDDDDD] bg-white">
-                    <img src="assets/images/gathering-data-icon.png" alt="Gathering Icon" class="h-9 w-8 object-contain" />
-                  </div>
-                </div>
-                <div class="px-3">
-                  <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Gathering data</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">In today's digital age, data is more valuable than ever. It drives insights, informs decision-making, and powers innovation. Collecting data has evolved into a multifaceted process, with various methods and technologies at our disposal. In this article, we'll explore some key techniques for collecting data, from web crawlers and web scraping to gathering data through third-party</p>
-                </div>
-                <a href="#" class="mx-auto  flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white">Read More</a>
-              </div>
+        <?php 
+          include('service-section.php');
+        ?>
 
-              <div class="rounded-[20px] text-center shadow-box-3 fade-in-animation">
-                <div class="relative z-0">
-                  <img src="assets/images/data-science.jpg" alt="Data science" class="aspect-square w-full rounded-[10px] object-cover xl:aspect-auto xl:h-[370px]" />
-                  <div class="absolute -bottom-7 left-1/2 flex size-15 -translate-x-1/2 items-center justify-center rounded-full border-2 border-[#DDDDDD] bg-white">
-                    <img src="assets/images/data-science-icon.png" alt="Data science" class="h-9 w-8 object-contain" />
-                  </div>
-                </div>
-                <div class="px-3">
-                  <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Data science</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">In today's data-driven world, the ability to transform raw data into actionable insights is a competitive advantage like no other. Data science, fueled by state-of-the-art machine learning algorithms and artificial intelligence (AI), has become the driving force behind discovering weak and strong points in data and uncovering hidden trends and regularities. In this article,</p>
-                </div>
-                <a href="#" class="mx-auto  flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white">Read More</a>
-              </div>
-
-              <div class="rounded-[20px] text-center shadow-box-3 fade-in-animation">
-                <div class="relative z-0">
-                  <img src="assets/images/delivering-data.jpg" alt="Delivering data" class="aspect-square w-full rounded-[10px] object-cover xl:aspect-auto xl:h-[370px]" />
-                  <div class="absolute -bottom-7 left-1/2 flex size-15 -translate-x-1/2 items-center justify-center rounded-full border-2 border-[#DDDDDD] bg-white">
-                    <img src="assets/images/delivering-data-icon.png" alt="Delivering data" class="h-9 w-8 object-contain" />
-                  </div>
-                </div>
-                <div class="px-3">
-                  <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Delivering data</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">Collecting data is just the first step in the data journey. Equally important is the ability to deliver data efficiently and securely to the right recipients. In this article, we'll explore different methods of delivering data, including building APIs for data sharing, pushing data through third-party APIs, and the role of internet bots in sending data through forms.</p>
-                </div>
-                <a href="#" class="mx-auto  flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white">Read More</a>
-              </div>
-
-              <div class="rounded-[20px] text-center shadow-box-3 fade-in-animation">
-                <div class="relative z-0">
-                  <img src="assets/images/gathering-data.jpg" alt="Automating processes" class="aspect-square w-full rounded-[10px] object-cover xl:aspect-auto xl:h-[370px]" />
-                  <div class="absolute -bottom-7 left-1/2 flex size-15 -translate-x-1/2 items-center justify-center rounded-full border-2 border-[#DDDDDD] bg-white">
-                    <img src="assets/images/delivering-data-icon.png" alt="Automating processes" class="h-9 w-8 object-contain" />
-                  </div>
-                </div>
-                <div class="px-3">
-                  <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Automating processes</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">In the quest for efficiency and productivity, automation has become a cornerstone of modern business operations. The development of server applications, paired with AI algorithms, has led to a revolution in automating repetitive tasks and processes. These applications not only handle the mundane and boring but can also learn and adapt their behavior</p>
-                </div>
-                <a href="#" class="mx-auto  flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white">Read More</a>
-              </div>
-            </div>
-          </div>
-        </section>
       </main>
 
       <?php 

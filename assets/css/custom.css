@@ -15,3 +15,16 @@
     text-decoration: underline;
     color: #002f99; /* Example color */
   }
+
+  .home-hero-banner:before {
+    content: '';
+    position: absolute;
+    background: #1d37996e;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+  }
+  .home-hero-banner img {
+    height: 100%;
+  }

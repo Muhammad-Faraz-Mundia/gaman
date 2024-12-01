@@ -75,11 +75,11 @@
                 Qatar <br />
                 Doha <br />
                 01-577 Warsaw, Qatar <br />
-                e-mail:
+                E-mail:
                 <a href="mailto:info@gaman.com">info@gaman.com</a>
                 <br />
 
-                phone: <a href="tel:+123456789">+92 123 456 789</a>
+                phone: <a href="tel:+123456789">123 2345 6789</a>
               </p>
             </div>
           </div>
