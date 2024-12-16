@@ -5,26 +5,51 @@
     transition: opacity 1s ease-in-out, transform 1s ease-in-out;
   }
   
-  .fade-in-animation.in-viewport {
-    opacity: 1;
-    transform: translateY(0);
+.fade-in-animation.in-viewport {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.active {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #002f99; /* Example color */
+}
+
+.home-hero-banner:before {
+  content: '';
+  position: absolute;
+  background: #1d37996e;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+.home-hero-banner img {
+  height: 100%;
+}
+
+.services_list li a {
+  pointer-events: none;
+}
+
+@media only screen and (max-width:767px) {
+  
+  .mainHeading {
+    font-size: 37px;
+  }
+  
+  .home-hero-banner {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
+  section.section-service {
+    padding-left: 25px;
+    padding-right: 25px;
   }
 
-  .active {
-    font-weight: bold;
-    text-decoration: underline;
-    color: #002f99; /* Example color */
-  }
+}
 
-  .home-hero-banner:before {
-    content: '';
-    position: absolute;
-    background: #1d37996e;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
-  }
-  .home-hero-banner img {
-    height: 100%;
-  }
+

@@ -1,7 +1,7 @@
     <!-- Services -->
-    <section class="px-6 pb-16 pt-16"> 
+    <section class="section-service"> 
           <div class="mx-auto w-full max-w-[1570px] fade-in-animation">
-            <h2 class="mb-10 text-center font-primary text-4xl font-semibold text-[#222222] md:text-5xl">SERVICES</h2>
+            <!-- <h2 class="mb-10 text-center font-primary text-4xl font-semibold text-[#222222] md:text-5xl">SERVICES</h2> -->
             <div class="grid grid-cols-1 gap-x-7.5 gap-y-10 pb-6 sm:grid-cols-2 lg:grid-cols-4">
               <div class="rounded-[20px] text-center shadow-box-3">
                 <div class="relative z-0">
