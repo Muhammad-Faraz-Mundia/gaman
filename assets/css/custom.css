@@ -1,3 +1,8 @@
+
+body.no-scroll{
+  overflow: hidden;
+}
+
 .fade-in-animation {
     opacity: 0;
     overflow: hidden;
@@ -34,6 +39,91 @@
   pointer-events: none;
 }
 
+.home-main-container .section-service {
+  padding-bottom: 70px;
+}
+
+.our-services-main-container .our-service-head {
+  display: none;
+}
+
+/* Popup overlay */
+.popup {
+  display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Horizontally center the content */
+  align-items: center;    /* Vertically center the content */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1000;
+  overflow: hidden; /* Prevent scrolling inside popup */
+  visibility: hidden; /* Use visibility for hiding instead of display: none */
+  opacity: 0; /* Smooth fade-in and fade-out */
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Make popup visible */
+.popup.active {
+  visibility: visible; /* Show the popup */
+  opacity: 1; /* Fully opaque */
+}
+
+/* Popup content box */
+.popup-content {
+  background: #fff;
+  padding: 40px 20px;
+  max-width: 90%; /* Responsive width for smaller screens */
+  width: 50%;
+  text-align: center;
+  position: relative;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Close button */
+.popup-content span.close {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 20px;
+  z-index: 99;
+  cursor: pointer;
+}
+
+/* Remove underline from headings and paragraph text */
+.popup-content h3, 
+.popup-content p {
+    text-decoration: none !important;
+}
+
+/* Remove underline from any anchor tags inside popup content */
+.popup-content a {
+    text-decoration: none !important;
+    color: inherit; /* Ensures the color is consistent with parent element */
+}
+
+/* Optional: Hover effect for links */
+.popup-content a:hover {
+    text-decoration: underline; /* Adds underline on hover (optional) */
+}
+
+.popup-content h3 {
+  font-size: 32px;
+}
+
+.popup-content p {
+  font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-top: 20px !important;
+    max-width: 80%;
+    width: 100%;
+    margin: 0 auto;
+}
+
 @media only screen and (max-width:767px) {
   
   .mainHeading {
@@ -48,6 +138,19 @@
   section.section-service {
     padding-left: 25px;
     padding-right: 25px;
+  }
+
+  .popup-content {
+    width: 100%;
+  }
+
+  .popup-content h3 {
+      font-size: 20px;
+  }
+
+  .popup-content p {
+      max-width: 100%;
+      font-size: 15px;
   }
 
 }

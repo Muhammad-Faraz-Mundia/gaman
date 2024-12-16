@@ -12,7 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
       const distanceToTop = element.getBoundingClientRect().top;
       if (distanceToTop <= scrollThreshold) {
         element.classList.add("in-viewport");
-         console.log("test");
       } else {
         element.classList.remove("in-viewport");
       }
@@ -45,3 +44,26 @@ navbarToggle.addEventListener("click", () => {
     makeX.setAttribute("d", "M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5");
   }
 });
+
+
+jQuery(document).ready(function () {
+  jQuery('.read-more').click(function (e) {
+      e.preventDefault(); // Prevent default anchor behavior
+      var popupId = jQuery(this).data('popup');
+      jQuery('#' + popupId).addClass('active'); // Show the popup
+      jQuery('body').addClass('no-scroll'); // Disable background scrolling
+  });
+
+  jQuery('.close').click(function () {
+      jQuery(this).closest('.popup').removeClass('active'); // Hide the popup
+      jQuery('body').removeClass('no-scroll'); // Enable background scrolling
+  });
+
+  jQuery(document).click(function (event) {
+      if (!jQuery(event.target).closest('.popup-content, .read-more').length) {
+          jQuery('.popup').removeClass('active'); // Hide all popups
+          jQuery('body').removeClass('no-scroll'); // Enable background scrolling
+      }
+  });
+});
+

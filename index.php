@@ -3,7 +3,7 @@
         include('header.php');
       ?>
       <!-- Main -->
-      <main class="overflow-hidden">
+      <main class="overflow-hidden home-main-container">
         <section class="relative z-0 w-full px-6 xl:h-[1040px] xl:px-12 home-hero-banner">
           <div class="mx-auto flex max-w-[1517px] flex-col xl:flex-row">
        

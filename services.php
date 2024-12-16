@@ -2,7 +2,7 @@
         include('header.php');
       ?>
     <!-- Main -->
-    <main class="overflow-hidden">
+    <main class="overflow-hidden our-services-main-container">
 
       <!-- Services We Provide -->
       <section class="bg-[#113D74]/15 px-6 pb-20 pt-10 md:pb-[146px] fade-in-animation">
