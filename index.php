@@ -7,9 +7,9 @@
         <section class="relative z-0 w-full px-6 xl:h-[1040px] xl:px-12 home-hero-banner">
           <div class="mx-auto flex max-w-[1517px] flex-col xl:flex-row">
        
-            <div class="w-full max-w-[483px] pr-12 pt-12 text-white md:pr-0 xl:pt-[298px]">
-              <h1 class="mb-2 font-primary text-5xl font-semibold leading-[1.1] md:text-6xl fade-in-animation mainHeading">Your Trusted Partner in Steel Trading: Reliable, Durable, and Efficient Solutions</h1>
-              <p class="mb-5 text-base font-medium leading-[1.875] fade-in-animation">Delivering High-Quality Steel Products with Unmatched Expertise, Tailored Solutions, and a Commitment to Excellence in Every Deal.</p>
+            <div class="w-full max-w-[600px] pr-12 pt-12 text-white md:pr-0 xl:pt-[298px]" style="z-index: 99;">
+              <h1 class="mb-2 font-primary text-5xl font-semibold leading-[1.1] md:text-6xl mainHeading">Your Trusted Partner in Steel Trading: Reliable, Durable, and Efficient Solutions</h1>
+              <p class="mb-5 text-base font-medium leading-[1.875]">Delivering High-Quality Steel Products with Unmatched Expertise, Tailored Solutions, and a Commitment to Excellence in Every Deal.</p>
 
               
             </div>

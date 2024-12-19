@@ -5,12 +5,12 @@
     <main class="overflow-hidden our-services-main-container">
 
       <!-- Services We Provide -->
-      <section class="bg-[#113D74]/15 px-6 pb-20 pt-10 md:pb-[146px] fade-in-animation">
+      <section class="bg-[#113D74]/15 px-6 pb-20 pt-20">
       
-        <div class="mx-auto mt-12 w-full max-w-[1517px] md:mt-24">
+        <div class="mx-auto w-full max-w-[1517px]">
           <div class="text-center">
             <p class="mb-3 text-xl uppercase md:text-2xl">
-              <span class="inline-block bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent">SERVICES WE PROVIDE</span>
+              <span class="inline-block bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent text-4xl font-semibold">SERVICES WE PROVIDE</span>
             </p>
 
             <h2 class="mx-auto mb-16 max-w-[925px] text-4xl font-semibold text-black md:text-5xl md:leading-[1.1] ">Our Purpose is To Deliver Excellence in Service and Execution</h2>
@@ -20,6 +20,12 @@
           <?php 
             include('service-section.php');
           ?>
+
+          <div class="mx-auto w-full max-w-[1517px] pt-20">
+            <p class="mb-3 text-xl uppercase md:text-2xl text-center">
+              <span class="inline-block bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent text-4xl font-semibold">SERVICE COMING SOON</span>
+            </p>
+          </div>
 
           <!-- <div class="grid grid-cols-1 gap-x-7.5 gap-y-8 lg:grid-cols-2 lg:gap-y-12">
             <div class="flex flex-col items-start gap-4.5 rounded-[30px] border-b-[3px] border-b-[#02162D] bg-white p-10 text-center sm:flex-row sm:text-left fade-in-animation">

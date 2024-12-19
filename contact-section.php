@@ -1,5 +1,5 @@
 <!-- Contact Form -->
-<section class="px-6 pb-20 pt-10 lg:pb-28 lg:pt-16 fade-in-animation">
+<section class="px-6 pb-20 pt-10 lg:pb-28 lg:pt-16">
           <div class="relative z-0 mx-auto grid w-full max-w-lg grid-cols-1 gap-12 pt-6 lg:max-w-[1061px] lg:grid-cols-2 lg:gap-[70px]">
             <div>
               <p class="flex w-fit items-center gap-3 bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-xl uppercase text-transparent md:text-2xl">
