@@ -10,10 +10,10 @@
         <div class="mx-auto w-full max-w-[1517px]">
           <div class="text-center">
             <p class="mb-3 text-xl uppercase md:text-2xl">
-              <span class="inline-block bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent text-4xl font-semibold">SERVICES WE PROVIDE</span>
+              <span class="inline-block bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent text-4xl font-semibold">Our Range of Products</span>
             </p>
 
-            <h2 class="mx-auto mb-16 max-w-[925px] text-4xl font-semibold text-black md:text-5xl md:leading-[1.1] ">Our Purpose is To Deliver Excellence in Service and Execution</h2>
+            <h2 class="mx-auto mb-16 max-w-[925px] text-4xl font-semibold text-black md:text-5xl md:leading-[1.1] ">Delivering Essential Products to Power Your Projects</h2>
           </div>
 
 
@@ -23,7 +23,7 @@
 
           <div class="mx-auto w-full max-w-[1517px] pt-20">
             <p class="mb-3 text-xl uppercase md:text-2xl text-center">
-              <span class="inline-block bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent text-4xl font-semibold">SERVICE COMING SOON</span>
+              <span class="inline-block bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent text-4xl font-semibold">Services To Be Added Shortly</span>
             </p>
           </div>
 

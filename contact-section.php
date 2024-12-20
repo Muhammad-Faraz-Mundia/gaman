@@ -19,7 +19,7 @@
                   <div>
                     <h4 class="mb-2 text-2xl font-bold leading-7">Location:</h4>
                     <p class="text-lg leading-7 text-[#7A7A7A]">
-                     Doha <br> Qatar
+                      Rwaq Building, Office No. 208, Doha, Qatar
                     </p>
                   </div>
                 </div>
@@ -33,8 +33,8 @@
                   <div>
                     <h4 class="mb-2 text-2xl font-bold leading-7">Phone:</h4>
                     <p class="text-lg leading-7 text-[#7A7A7A]">
-                      123 4567 9812 <br />
-                      123 2345 6789
+                      Telephone: (+974) 4444 0655 <br />
+                      Fax: (+974) 4444 0633
                     </p>
                   </div>
                 </div>
@@ -48,21 +48,21 @@
                   <div>
                     <h4 class="mb-2 text-2xl font-bold leading-7">Email:</h4>
                     <p class="text-lg leading-7 text-[#7A7A7A]">
-                      info@gaman.com <br />
-                      admin@gaman.com
+                      info@gaman.com 
                     </p>
                   </div>
                 </div>
               </div>
             </div>
             <div class="shadow-box-4 rounded-[30px] border-b-[3px] border-b-[#7A7A7A] bg-white px-8 pb-24 pt-14 text-center">
-              <h4 class="mb-3.5 text-4xl font-bold text-black">Need any Help!</h4>
-              <p class="mb-7 text-base text-[#7A7A7A]">Eiusmod tempor in labore et dolore magna aliqua ruis ultrices gravida sit amet.</p>
+              <h4 class="mb-3.5 text-4xl font-bold text-black">Get in Touch</h4>
+              <p class="mb-7 text-base text-[#7A7A7A]">Fill out the form below, and our team will get back to you shortly.</p>
 
               <form action="#">
                 <input type="text" placeholder="Your Name:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
                 <input type="text" placeholder="Your Email:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
                 <input type="text" placeholder="Phone:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
+                <input type="text" placeholder="Company Name:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
                 <textarea placeholder="Message:" class="px-5.5 shadow-input mb-9 block h-[128px] w-full resize-none rounded-[10px] border border-[#DAE7FB] bg-white py-3 text-black placeholder:text-[#6C757D]"></textarea>
                 <button type="submit" class="h-14 rounded-full bg-g1 bg-cover bg-no-repeat px-14 text-lg font-medium text-white">Submit Now</button>
               </form>

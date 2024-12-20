@@ -12,7 +12,7 @@
                 </div>
                 <div class="px-3">
                   <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Building Materials & Equipment</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">We supply a wide range of premium-quality building materials and equipment to support construction projects of all scales. From structural steel to reinforced bars, we ensure your projects have the strength they need.</p>
+                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">Our portfolio includes premium-quality building materials and equipment tailored to support construction projects of all scales.</p>
                 </div>
                 <a href="#" class="mx-auto -mb-5 flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white read-more" data-popup="popup1">Read More</a>
               </div>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="px-3">
                   <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Piping & Accessories</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">Our extensive collection of pipes and accessories includes options for industrial, commercial, and residential applications. We provide high-grade piping solutions that ensure durability and reliability under any condition.</p>
+                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">A comprehensive range of pipes and piping accessories designed to address the demands of industrial and commercial applications.</p>
                 </div>
                 <a href="#" class="mx-auto -mb-5 flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white read-more" data-popup="popup2">Read More</a>
               </div>
@@ -40,7 +40,7 @@
                 </div>
                 <div class="px-3">
                   <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Steel & Alloys</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">Discover our comprehensive range of steel and alloy products, tailored to meet the diverse needs of industries worldwide. From mild steel to specialty alloys, we deliver precision-engineered materials that drive performance.</p>
+                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">We offer a diverse range of steel and alloy products designed to meet the specific demands of various industries.</p>
                 </div>
                 <a href="#" class="mx-auto -mb-5 flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white read-more" data-popup="popup3">Read More</a>
               </div>
@@ -54,7 +54,7 @@
                 </div>
                 <div class="px-3">
                   <h4 class="mt-9 font-primary text-[22px] font-semibold text-[#222]">Mechanical Equipment</h4>
-                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">We offer a wide selection of mechanical equipment to support your operational needs. Whether it's tools, machinery, or components, our products are designed to ensure efficiency and productivity in every process.</p>
+                  <p class="mb-4.5 font-primary text-sm leading-5 text-[#555]">We offer a wide selection of mechanical equipment to support your operational needs.</p>
                 </div>
                 <a href="#" class="mx-auto -mb-5 flex h-10 w-fit items-center justify-center rounded-full bg-g1 bg-cover bg-no-repeat px-6 text-sm font-semibold leading-6 text-white read-more" data-popup="popup4">Read More</a>
               </div>

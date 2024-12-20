@@ -22,11 +22,17 @@
              
               <h2 class="inline-block text-4xl font-semibold bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-transparent">ABOUT US</h2>
 
-              <h2 class="mb-6 text-4xl font-semibold text-black md:text-5xl md:leading-[1.1]">Empowering People By Keeping Them Well</h2>
+              <h2 class="mb-6 text-4xl font-semibold text-black md:text-5xl md:leading-[1.1]">Empowering Businesses With Quality Steel Solutions</h2>
 
-              <p class="mb-5 text-lg leading-7 text-primary">Repellendus autem ruibusdam et aut officiis debitis aut re necessitatibus saepe eveniet ut et voluptates repudianda sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.</p>
+              <p class="mb-5 text-lg leading-7 text-primary">At Gaman Trading WLL, we pride ourselves on being a trusted partner in the steel trading and stockist industry, with a specialized focus on serving the oil and gas sector. Backed by decades of expertise and a legacy spanning three generations, our company combines deep industry knowledge with an unwavering commitment to quality and reliability.
+                <br><br>
+                Over the years, we have built a reputation for delivering tailored solutions that meet the diverse and demanding needs of our clients. Our success is bolstered by strong partnerships with leading international manufacturers, enabling us to source and supply a wide range of high-quality products. This ensures our clients receive not only exceptional service but also access to globally recognized standards of excellence.
+                <br><br>
+                At Gaman Trading WLL, we are more than a supplier; we are a partner dedicated to empowering industries and building lasting relationships through excellence and trust.”
 
-              <ul class="mb-7 space-y-3.5 md:mb-4.5">
+              </p>
+
+              <!-- <ul class="mb-7 space-y-3.5 md:mb-4.5">
                 <li class="flex items-center gap-3.5 text-lg leading-7 text-[#54595F]">
               
                   <span>Quis autem vel eum iure reprehenderit aui</span>
@@ -41,7 +47,7 @@
                   
                   <span>Dolor repellendus temporibus autem auibus</span>
                 </li>
-              </ul>
+              </ul> -->
 
               <!-- <a href="#" class="mx-auto flex h-14 w-[196px] items-center justify-center rounded-full bg-g1 font-primary text-sm font-semibold text-white md:mx-0">Read More</a> -->
             </div>
