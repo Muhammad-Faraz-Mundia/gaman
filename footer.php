@@ -38,14 +38,14 @@
               <div class="w-full xl:max-w-[320px]">
                 <h3 class="mb-7.5 font-primary text-2xl font-semibold"> <a href="contact.php"> Contact Us </a></h3>
                 <p class="font-primary text-base leading-[1.875]">
-                  Qatar <br />
-                  Doha <br />
-                  01-577 Warsaw, Qatar <br />
+                  Rwaq Building, <br> Office No. 208, <br> Doha, Qatar
+
+
                   E-mail:
                   <a href="mailto:info@gaman.com">info@gaman.com</a>
                   <br />
 
-                  phone: <a href="tel:+123456789">123 2345 6789</a>
+                  phone: <a href="tel:+974 4444 0655">(+974) 4444 0655</a>
                 </p>
               </div>
             </div>
