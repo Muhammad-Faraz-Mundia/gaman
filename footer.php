@@ -51,7 +51,8 @@
             </div>
 
             <div class="flex flex-col items-center justify-between gap-x-5 gap-y-2 text-center text-base md:flex-row md:text-left">
-              <p class="order-last md:order-none">&copy; Copyright <script> document.write(new Date().getFullYear()); </script> GAMAN - All right reserved</p>
+              <p class="order-last md:order-none">&copy; Copyright <script> document.write(new Date().getFullYear()); </script> Gaman Trading WLL
+              - All right reserved</p>
               <ul class="flex items-center gap-12" style="display:none">
                 <li><a href="#">Privacy</a></li>
                 <li><a href="#">Terms</a></li>
