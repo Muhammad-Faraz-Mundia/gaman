@@ -45,7 +45,7 @@
                   <a href="mailto:info@gaman.com">info@gaman.com</a>
                   <br />
 
-                  phone: <a href="tel:+974 4444 0655">(+974) 4444 0655</a>
+                  Telephone: <a href="tel:+974 4444 0655">(+974) 4444 0655</a>
                 </p>
               </div>
             </div>
