@@ -38,7 +38,7 @@
               <div class="w-full xl:max-w-[320px]">
                 <h3 class="mb-7.5 font-primary text-2xl font-semibold"> <a href="contact.php"> Contact Us </a></h3>
                 <p class="font-primary text-base leading-[1.875]">
-                  Rwaq Building, <br> Office No. 208, <br> Doha, Qatar
+                  Rwaq Building, <br> Office No. 208, <br> Doha, Qatar <br>
 
 
                   E-mail:
