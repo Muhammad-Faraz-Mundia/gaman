@@ -5,7 +5,7 @@
       <!-- Main -->
       <main class="overflow-hidden">
         <!-- About Us -->
-        <section class="px-6 pb-20 pt-20">
+        <section class="bg-[#113D74]/15 px-6 pb-20 pt-20">
           <!-- <div class="mx-auto w-full max-w-[1602px]">
             <ul class="flex items-center gap-2 text-xl text-[#6A6A6A]">
               <li><a href="index.php">Home &rsaquo;</a></li>
