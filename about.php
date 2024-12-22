@@ -28,7 +28,7 @@
                 <br><br>
                 Over the years, we have built a reputation for delivering tailored solutions that meet the diverse and demanding needs of our clients. Our success is bolstered by strong partnerships with leading international manufacturers, enabling us to source and supply a wide range of high-quality products. This ensures our clients receive not only exceptional service but also access to globally recognized standards of excellence.
                 <br><br>
-                At Gaman Trading WLL, we are more than a supplier; we are a partner dedicated to empowering industries and building lasting relationships through excellence and trust.
+                At Gaman, we are more than a supplier; we are a partner dedicated to empowering industries and building lasting relationships through excellence and trust.
 
               </p>
 
