@@ -1,5 +1,5 @@
 <!-- Contact Form -->
-<section class="px-6 pb-20 pt-10 lg:pb-28 lg:pt-16">
+<section class="bg-[#113D74]/15 px-6 pb-20 pt-10 lg:pb-28 lg:pt-16">
           <div class="relative z-0 mx-auto grid w-full max-w-lg grid-cols-1 gap-12 pt-6 lg:max-w-[1061px] lg:grid-cols-2 lg:gap-[70px]">
             <div>
               <p class="flex w-fit items-center gap-3 bg-g1 bg-cover bg-clip-text bg-center bg-no-repeat text-xl uppercase text-transparent md:text-2xl">
@@ -59,8 +59,8 @@
               <p class="mb-7 text-base text-[#7A7A7A]">Fill out the form below, and our team will get back to you shortly.</p>
 
               <form action="#">
-                <input type="text" placeholder="Your Name:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
-                <input type="text" placeholder="Your Email:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
+                <input type="text" placeholder="Name:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
+                <input type="text" placeholder="Email:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
                 <input type="text" placeholder="Phone:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
                 <input type="text" placeholder="Company Name:" class="px-5.5 shadow-input mb-5 block h-[50px] w-full rounded-[10px] border border-[#DAE7FB] bg-white text-black placeholder:text-[#6C757D]" />
                 <textarea placeholder="Message:" class="px-5.5 shadow-input mb-9 block h-[128px] w-full resize-none rounded-[10px] border border-[#DAE7FB] bg-white py-3 text-black placeholder:text-[#6C757D]"></textarea>
