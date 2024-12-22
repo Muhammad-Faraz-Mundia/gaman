@@ -29,7 +29,7 @@
                     <a href="#" class="flex items-center gap-5 font-primary text-base leading-[1.875] before:block before:size-1.5 before:shrink-0 before:bg-[#00BAFF] before:content-['']">Mechanical Equipment</a>
                   </li>
                   <li>
-                    <a href="#" class="flex items-center gap-5 font-primary text-base leading-[1.875] before:block before:size-1.5 before:shrink-0 before:bg-[#00BAFF] before:content-['']">Service coming soon</a>
+                    <a href="#" class="flex items-center gap-5 font-primary text-base leading-[1.875] before:block before:size-1.5 before:shrink-0 before:bg-[#00BAFF] before:content-['']">Services Coming Soon</a>
                   </li>
                 </ul>
 
